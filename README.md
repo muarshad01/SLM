@@ -6,3 +6,13 @@
 
 *** 
 
+| Lecture | Notes | Date Updated |
+|---|---|---|
+| Lecture 01 | [Notes]() | Aug 04, 2026 |
+| Lecture 02 | [Notes]() | Aug 04, 2026 |
+| Lecture 03 | [Notes]() | Aug 04, 2026 |
+| Lecture 04 | [Notes]() | Aug 04, 2026 |
+
+***
+
+
