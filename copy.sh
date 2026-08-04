@@ -1,6 +1,6 @@
 #/bin/bash
 
-git clean
+clear
 
 git pull
 
