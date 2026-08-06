@@ -49,11 +49,14 @@
 * Character based tokenization
   * Issues: We loose the essence of English language; **context-window problem**
 * Sub-word based tokenization
-  * [Understanding Byte Pair Encoding (BPE) in Large Language Models](https://vizuara.substack.com/p/understanding-byte-pair-encoding) 
+  * [Understanding Byte Pair Encoding (BPE) in Large Language Models](https://vizuara.substack.com/p/understanding-byte-pair-encoding)
+  * [The necessary (and neglected) evil of Large Language Models: Tokenization](https://vizuara.substack.com/p/the-necessary-and-neglected-evil)
   * It solves OOV problem; reduces vocab size; preserves essence of language
 
 ***
 
+* [Tiktokenizer App](https://tiktokenizer.vercel.app/)
+* GPT-2 vocab-size is $50,527$.
 
 
 
