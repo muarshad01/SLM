@@ -67,10 +67,22 @@
 
 ***
 
-#### Input/Output Pairs
-
-
+#### Create Input-Output Pairs from Dataset
+* (batch-size, context-size) = (4, 4)
+* Context Window (Number of tokens the model looks at one time!)
+* Batch Size
+* GPT-2 context-size is $1,024$
 
 ***
+
+* LLM are Autoregressive & Self-Supervise
+
+***
+
+* 1:40:00
+
+***
+
+
 
 
