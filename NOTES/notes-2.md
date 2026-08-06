@@ -19,7 +19,7 @@
 2. Multi-head Attion (MHA)
 3. Dropout
 4. Layer Norm 2
-5. Feed-Forward NN
+5. Feed forward NN
 6. Dropout
 
 ***
