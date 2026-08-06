@@ -9,9 +9,18 @@
 
 **** 
 
-* 10:00  
+* 10:00
 
-
-
+* Statistical (probabilistic) prediction of next word
+* What if I made a model which estimates the probabilities with which the next word can appear?
 
 ***
+
+* 20:00
+
+* Emergent Behavior
+* Model learns form and meaning of language
+
+***
+
+* 30:00
