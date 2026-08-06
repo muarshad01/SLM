@@ -45,12 +45,12 @@
 
 #### Part 2: Data pre-processing (Tokenization; Input/Output pairs)
 * Word based tokenization
-  * Issues: computational time; spelling mistakes (OOV problem - i.e., out of vocabulary problem); 
+  * Issues: computational time; spelling mistakes (**OOV problem** - i.e., out of vocabulary problem); 
 * Character based tokenization
-  * Issues: We loose the essence of English language; context-window problem
+  * Issues: We loose the essence of English language; **context-window problem**
 * Sub-word based tokenization
   * [Understanding Byte Pair Encoding (BPE) in Large Language Models](https://vizuara.substack.com/p/understanding-byte-pair-encoding) 
-
+  * It solves OOV problem; reduces vocab size; preserves essence of language
 
 ***
 
