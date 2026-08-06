@@ -30,7 +30,7 @@
 
 * 40:00
 
-#### Our dataset
+#### Part-1: Our Dataset
 
 | Paper |
 |---|
@@ -39,8 +39,10 @@
 * [TinyStories Datasets at Hugging Face](https://huggingface.co/datasets/roneneldan/TinyStories)
 
 
-
 ***
 
+* 50:00
+
+#### Part 2: Data pre-processing (Tokenization; Input/Output pairs)
 
 
