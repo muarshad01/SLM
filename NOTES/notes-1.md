@@ -58,5 +58,19 @@
 * [Tiktokenizer App](https://tiktokenizer.vercel.app/)
 * GPT-2 vocab-size is $50,527$.
 
+***
+
+* 1:20:00
+
+* Train.bin
+* Validation.bin
+
+***
+
+#### Input/Output Pairs
+
+
+
+***
 
 
