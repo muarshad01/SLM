@@ -9,47 +9,17 @@
 
 ***
 
-#### Part-1: Innovative Architecture
-* Multi-head Latent Attention (MLA)
-* Mixture of Experts (MoE)
-* Multi-token Prediction (MTP)
-* Quantization
-* Rotary Positional Encoding (RoPE)
-
-***
-
 <p align="center">
   <img src="https://github.com/muarshad01/SLM/blob/main/images/lecture-2/llm-architecture.png" width="500" height="300" />
 </p>
 
-#### Multi-head Latent Attention (MLA)
-We need to understand the following concepts to truly understand MLA:
-* Architecture of LLM
-* Self-Attention
-* Multi-head Attention
-* Key Value (KV) Cache
-
-***
-
-#### Architecture of LLM
-
-| Model | Parameters |
-|---|---|
-| GPT-2   | 1.5 Billion |
-| GPT-3   | 175 Billion |
-| GPT-4   | 1 Trillion |
-| GPT-4.5 | 5-10 Trillion |
-
-***
-
-* [ChatGPT](https://chatgpt.com/)
 
 #### Transformer Block
 1. Layer Norm 1
-2. Multi-head Attion --> MLA
+2. Multi-head Attion (MHA)
 3. Dropout
 4. Layer Norm 2
-5. Feed Forward NN --> MoE
+5. Feed-Forward NN
 6. Dropout
 
 ***
