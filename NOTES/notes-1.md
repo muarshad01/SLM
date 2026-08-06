@@ -1,4 +1,7 @@
+## SLM
+
 * [Colab Paid Services Pricing](https://colab.research.google.com/signup)
+
 
 * **Part 1**: Dataset
 * **Part 2**: Data pre-processing (Tokenization; Input/Output pairs)
