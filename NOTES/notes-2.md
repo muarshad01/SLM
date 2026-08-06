@@ -1,18 +1,8 @@
-
-
-|||
-|---|---|
-|$d_{model}$|model dimension|
-|$n_{heads}$|Number of heads|
-|$d_{head}$|Dimension of each head|
-|$n_{heads} \times d_{head}$|Embeddign dimension|
-
-***
+## Architecture
 
 <p align="center">
   <img src="https://github.com/muarshad01/SLM/blob/main/images/lecture-2/llm-architecture.png" width="500" height="300" />
 </p>
-
 
 #### Transformer Block
 1. Layer Norm 1
