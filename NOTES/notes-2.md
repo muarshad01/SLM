@@ -18,9 +18,11 @@
 1. Layer Norm 1
 2. Multi-head Attion (MHA)
 3. Dropout
-4. Layer Norm 2
-5. Feed forward NN
-6. Dropout
+4. Shortcut Connection ($\oplus$)
+5. Layer Norm 2
+6. Feed forward NN
+7. Dropout
+8. Shortcut Connection ($\oplus$)
 
 ***
 
