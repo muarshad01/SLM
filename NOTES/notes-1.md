@@ -28,4 +28,19 @@
 
 ***
 
-* 30:00
+* 40:00
+
+#### Our dataset
+
+| Paper |
+|---|
+| [TinyStories: How Small Can Language Models Be and Still Speak Coherent English?](https://arxiv.org/abs/2305.07759) |
+
+* [TinyStories Datasets at Hugging Face](https://huggingface.co/datasets/roneneldan/TinyStories)
+
+
+
+***
+
+
+
