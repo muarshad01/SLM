@@ -44,5 +44,15 @@
 * 50:00
 
 #### Part 2: Data pre-processing (Tokenization; Input/Output pairs)
+* Word based tokenization
+  * Issues: computational time; spelling mistakes (OOV problem - i.e., out of vocabulary problem); 
+* Character based tokenization
+  * Issues: We loose the essence of English language; context-window problem
+* Sub-word based tokenization
+
+
+***
+
+
 
 
