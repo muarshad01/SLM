@@ -49,6 +49,7 @@
 * Character based tokenization
   * Issues: We loose the essence of English language; context-window problem
 * Sub-word based tokenization
+  * [Understanding Byte Pair Encoding (BPE) in Large Language Models](https://vizuara.substack.com/p/understanding-byte-pair-encoding) 
 
 
 ***
