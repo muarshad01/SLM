@@ -20,6 +20,10 @@
 
 ***
 
+<p align="center">
+  <img src="https://github.com/muarshad01/SLM/blob/main/images/lecture-2/llm-architecture.png" width="500" height="300" />
+</p>
+
 #### Multi-head Latent Attention (MLA)
 We need to understand the following concepts to truly understand MLA:
 * Architecture of LLM
