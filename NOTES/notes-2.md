@@ -45,11 +45,9 @@
 
 * 40:00
 
-#### Why we do Normalization
-* Without normalization: 1) training is not very stable
-* Normalization makes training smoother
-* In back-propagation, we have a procedure called gradient descent.
-* Normalization makes gradient descent smoother. Prevents vanishing gradient problem
+#### Benefit of Normalization $\bigg(\frac{x_i-\mu}{\sqrt{var}}\bigg)$
+* Without normalization: 1) training is not very stable (large or small values); 2) vanishing gradient problem. Gradients become zero and learning stagnates.
+* Normalization makes training smoother (stable). In back-propagation, we have a procedure called gradient descent. Normalization 1) makes gradient descent smoother (stable); 2) Prevents vanishing gradient problem
 
 ***
 
