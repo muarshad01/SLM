@@ -11,8 +11,9 @@
 | GPT-2 ||
 |---|---|
 | Vocabulary Size     | 50,257 |
-| Embedding dimension | 768 |
-| Context Window      | 1,024 |
+| Embedding dimension |    768 |
+| Context Window      |  1,024 |
+| Transformer Layers  |     12 |
 
 ***
 
