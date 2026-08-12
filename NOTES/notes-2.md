@@ -7,7 +7,7 @@
 ***
 
 * Assuming you meant GPT-2, the standard vocabulary size is $50,257$ tokens and the embedding dimension is $768$ for the base model
-* Token embedding matrix = $50,257 \times 768$
+* Token embedding matrix = $50,257 \times 768 = 38.6$ million Parameters
 
 ***
 
