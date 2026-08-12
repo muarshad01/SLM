@@ -100,7 +100,7 @@ The dog chased another dog
 ***
 
 #### FFNN
-* $768 \times (4 \times 768) \times 2 = 4,718,592$ Parameters
+* $768 \times (4 \times 768) \times 2 = 4,718,592 = 4.7$ million Parameters x 12 = ~ 50 million Parameters
 
 ***
 
