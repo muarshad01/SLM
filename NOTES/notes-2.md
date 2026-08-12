@@ -9,11 +9,11 @@
 * Assuming you meant GPT-2, the standard vocabulary size is $50,257$ tokens and the embedding dimension is $768$ for the base model. The context window size is 1,024 tokens
 
 #### Token Embedding
-* Token embedding matrix = $50,257 \times 768 = 38.6$ Million Parameters
+* Token embedding matrix = vocab_size x embedding_dimension = $50,257 \times 768 = 38.6$ Million Parameters
 
 #### Position Embedding
 * `The dog chased the cat it couldn't catch it.`
-* Token embedding matrix = $1,024 \times 768 = xxx$ Million Parameters???
+* Token embedding matrix = context_size x embedding_dimension = $1,024 \times 768 = xxx$ Million Parameters???
 
 ***
 
