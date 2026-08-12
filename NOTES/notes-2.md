@@ -17,11 +17,11 @@
 ***
 
 #### Token Embedding
-* Token embedding matrix = vocab_size x embedding_dimension = $50,257 \times 768 = 38.6$ Million Parameters
+* Token embedding matrix = $50,257 \times 768 = 38.6$ Million Parameters
 
 #### Position Embedding
 * `The dog chased the cat it couldn't catch it.`
-* Token embedding matrix = context_size x embedding_dimension = $1,024 \times 768 = xxx$ Million Parameters???
+* Token embedding matrix = $1,024 \times 768 = 786,432$ Parameters
 
 #### Input Embedding
 * Token Embedding + Position Embedding
