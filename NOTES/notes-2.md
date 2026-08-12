@@ -4,6 +4,8 @@
   <img src="https://github.com/muarshad01/SLM/blob/main/images/lecture-2/llm-architecture.png" width="500" height="300" />
 </p>
 
+* Assuming you meant GPT-2, the standard vocabulary size is $50,257$ tokens and the embedding dimension is $768$ for the base model
+
 #### Transformer Block
 1. Layer Norm 1
 2. Multi-head Attion (MHA)
