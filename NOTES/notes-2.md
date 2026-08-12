@@ -34,9 +34,9 @@
 
 
 #### Transformer Block
-1. Layer Norm 1
+1. Layer Norm 1 ($\frac{x_i-\mu}{\sqrt{\var}}$)
 2. Multi-head Attion (MHA)
-3. Dropout
+3. Dropout (Randomly set some bits to 0; Helps with generalization; group study project example!)
 4. Shortcut Connection ($\oplus$)
 5. Layer Norm 2
 6. Feed forward NN
