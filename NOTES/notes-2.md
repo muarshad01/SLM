@@ -30,14 +30,13 @@
 
 * 30:00
 
-
 #### Transformer Block
 1. Layer Norm 1 $\bigg(\frac{x_i-\mu}{\sqrt{var}}\bigg)$
-2. Multi-head Attion (MHA)
+2. Multi-head Attention (MHA)
 3. Dropout (Randomly set some bits to 0; Helps with generalization; group study project example!)
-4. Shortcut Connection ($\oplus$)
+4. Shortcut Connection ($\oplus$) - alternate path for gradient to flow.
 5. Layer Norm 2
-6. Feed forward NN
+6. Feed forward NN - (Expansion, Contraction)
 7. Dropout
 8. Shortcut Connection ($\oplus$)
 
@@ -50,6 +49,9 @@
 * Normalization makes training smoother (stable). In back-propagation, we have a procedure called gradient descent. Normalization 1) makes gradient descent smoother (stable); 2) Prevents vanishing gradient problem
 
 ***
+
+* 1:00:00
+
 
 ```
 A true friend accepts you
@@ -84,7 +86,7 @@ The dog chased another dog
 3. Dropout (Improves generalization performance; prevents over-fitting)
 4. Skip connection or shortcut connnection (help gradient to flow through an alternate path; vanishing gradient problem)
 5. Layer Norm 2
-6. Feed Forward NN (Expansion / Contraction) --> MoE
+6. Feed Forward NN (Expansion / Contraction) --> 768 (IL) + 4x768 (HL) 2x = 
 7. Dropout
 
 ***
@@ -94,6 +96,11 @@ The dog chased another dog
 * __Phase-9__: Normalization layer
 
 * __Phase-10__:
+
+***
+
+#### FFNN
+* $768 \times (4 \times 768) \times 2 = 4,718,592$
 
 ***
 
