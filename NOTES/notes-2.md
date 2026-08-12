@@ -13,7 +13,7 @@
 
 #### Position Embedding
 * `The dog chased the cat it couldn't catch it.`
-* Token embedding matrix = $1,024 \times 768 = xxx$ Million Parameters
+* Token embedding matrix = $1,024 \times 768 = xxx$ Million Parameters???
 
 ***
 
