@@ -43,6 +43,16 @@
 
 ***
 
+* 40:00
+
+#### Why we do Normalization
+* Without normalization: 1) training is not very stable
+* Normalization makes training smoother
+* In back-propagation, we have a procedure called gradient descent.
+* Normalization makes gradient descent smoother. Prevents vanishing gradient problem
+
+***
+
 ```
 A true friend accepts you
 ```
