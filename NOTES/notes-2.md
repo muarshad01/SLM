@@ -22,7 +22,7 @@
 
 #### Position Embedding
 * `The dog chased the cat it couldn't catch it.`
-* Token embedding matrix = $1,024 \times 768 = 786,432$ Parameters
+* Position embedding matrix = $1,024 \times 768 = 786,432$ Parameters
 
 #### Input Embedding
 * Token Embedding + Position Embedding
