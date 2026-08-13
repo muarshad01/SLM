@@ -7,6 +7,10 @@
 
 #### Cross Entropy Loss
 
+<p align="center">
+  <img src="https://github.com/muarshad01/SLM/blob/main/images/lecture-3/NLL.png" width="500" height="300" />
+</p>
+
 $$
 P = \left[
     \begin{array}{@{}c@{}}
