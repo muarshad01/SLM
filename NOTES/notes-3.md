@@ -2,3 +2,8 @@
 * Part 5: Pre-training the SLM (GPU training)
 
 ***
+
+* 10:00
+
+
+***
