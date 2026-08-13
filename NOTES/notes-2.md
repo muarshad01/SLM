@@ -50,6 +50,10 @@
 
 * 1:10:00
 
+* [Attention](https://github.com/muarshad01/DeepSeek/blob/main/Notes/lecture05_notes.md)
+
+***
+
 #### FFNN
 * $768 \times (4 \times 768) \times 2 = 4,718,592$ = 4.7 Million x 12 = ~50 Million Parameters
 
