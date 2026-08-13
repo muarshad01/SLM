@@ -38,10 +38,16 @@ $$
 $$
 Loss(L) = f(p_1,p_2, \ldots, p_{100M})\\
 \frac{\partial L}{\partial p_1};\frac{\partial L}{\partial p_2};\ldots,\frac{\partial L}{\partial p_{100M}};\\
-p_1=p_1-\alpha\frac{\partial L}{\partial p_1}\\
-p_2=p_2-\alpha\frac{\partial L}{\partial p_2} \\
-\ldots\\
-p_{100M}=p_{100M}-\alpha\frac{\partial L}{\partial p_{100M}};
+$$
+
+#### Update Rule - ADAM
+$$
+\begin{align}
+  p_1 &= p_1-\alpha\frac{\partial L}{\partial p_1}\\
+  p_2 &= p_2-\alpha\frac{\partial L}{\partial p_2} \\
+  \ldots\\
+  p_{100M} &= p_{100M}-\alpha\frac{\partial L}{\partial p_{100M}};\\
+\end{align}
 $$
 
 ***
