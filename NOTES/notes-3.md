@@ -23,6 +23,6 @@ P = \left[
 $$
 
 * Negative log likelihood: $-\frac{1}{4}\big[\log (p_{1}) + \log (p_{2})+\log (p_{3})+\log (p_{4})\big]$
-* NOTE: If $p_{1}=p_{2}=p_{3}=p_{4}=1$ then Negative log likelihood=0.
+* **NOTE**: If $p_{1}=p_{2}=p_{3}=p_{4}=1$ then Negative log likelihood=0.
 
 ***
