@@ -7,5 +7,14 @@
 
 #### How Loss is Computed
 
-
+$$
+P = \left[
+    \begin{array}{@{}c@{}}
+       p_{1} \\
+       p_{2} \\
+       p_{3} \\
+       p_{4} \\
+    \end{array} 
+\right]
+$$
 ***
