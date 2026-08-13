@@ -49,6 +49,15 @@ $$
 \end{align}
 $$
 
+* **Note**: 1-epoch is equal to an entire set of batches.
+
 ***
+
+* 1:00:00
+
+#### Gradient Accumulation
+
+***
+
 
 
