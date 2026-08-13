@@ -7,7 +7,7 @@
 ***
 
 #### Transformer Block
-1. Layer Norm 1 $\bigg(\frac{x_i-\mu}{\sqrt{var}}\bigg)$
+1. Layer Norm 1
 2. Multi-head Attention (MHA)
 3. Dropout (Randomly set some bits to 0; Improves generalization performance; prevents over-fitting; Group study project example!)
 4. Shortcut Connection ($\oplus$) - helps gradient to flow through an alternate path; vanishing gradient problem!
