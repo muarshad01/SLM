@@ -55,7 +55,17 @@
 
 ***
 
-1:30:00
+* 1:30:00
+
+#### MHA - Perspectives
+* The artist painted the portrait of a woman with a brush.
+1. painting a woman with a "brush"
+2. painting of a "woman with a brush"
+
+***
+
+* 1:40:00
+
 
 ***
 
