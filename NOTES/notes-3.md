@@ -17,4 +17,10 @@ P = \left[
     \end{array} 
 \right]
 $$
+
+
+$$
+-\frac{1}{4}\big[\log (p_{1}) + \log (p_{2})+\log (p_{3})+\log (p_{4})\big]
+$$
+
 ***
