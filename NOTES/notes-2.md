@@ -66,7 +66,7 @@
 
 * 1:40:00
 
-#### Output Projection Matrix W_0
+#### Output Projection Matrix $W_0$
 * $W_0(768,50,257)$
 * $(4, 50,257) = (4,768) \times (768,50,257)$
 
