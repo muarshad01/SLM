@@ -3,7 +3,9 @@
 
 ***
 
-* 10:00
+* 20:00
+
+#### How Loss is Computed
 
 
 ***
