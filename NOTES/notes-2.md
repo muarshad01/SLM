@@ -43,7 +43,7 @@
 
 * 40:00
 
-#### Benefit of Normalization $\bigg(\frac{x_i-\mu}{\sqrt{var}}\bigg)$
+#### Layer Normalization
 * [Layer Normalization](https://github.com/muarshad01/LLM/blob/main/Notes/lecture20_notes.md)
 
 ***
