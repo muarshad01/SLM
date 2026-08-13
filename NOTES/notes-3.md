@@ -26,3 +26,8 @@ $$
 * **NOTE**: If $p_{1}=p_{2}=p_{3}=p_{4}=1$ then Negative log likelihood=0.
 
 ***
+
+* 30:00
+
+
+***
