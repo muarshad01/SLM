@@ -22,7 +22,7 @@ P = \left[
 \right]
 $$
 
-* Negative log likelihood: $-\frac{1}{4}\big[\log (p_{1}) + \log (p_{2})+\log (p_{3})+\log (p_{4})\big]$
+* Negative log likelihood: $-\frac{1}{4}\big[\log (p_{1}) + \log (p_{2})+\log (p_{3})+\log (p_{4})\big]=-\frac{1}{4}\big[\log (p_{1}\times p_{2} \times p_{3} \times p_{4})\big]$
 * **NOTE**: If $p_{1}=p_{2}=p_{3}=p_{4}=1$ then Negative log likelihood=0.
 
 ***
