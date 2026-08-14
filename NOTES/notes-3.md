@@ -55,11 +55,34 @@ $$
 
 * 1:00:00
 
-#### Gradient Accumulation
+#### Learning Rate (LR)
 
-$\frac{g_1+g_2+g_3+g_4}{4}$
+$$\theta_{i+1}=\theta_{i}-\alpha\frac{\partial L}{\partial W}$$
+
+* Adam/AdamW
+
+#### Gradient Accumulation
+* Batch size = 1,024
+* 1 Batch = 32
+$\frac{g_1 + g_2 + \ldots + g_{32}}{32}$
+
+
+#### Hyper Parameters
+1. Embedding dimension
+2. Vocabulary size
+3. Context size
+4. Transformer blocks
+5. Attention heads
+6. FFN - 4 x embedding dimension - 4
 
 ***
 
+* 1:10:00 
+
+#### Code
+
+***
+
+* 1:20:00 
 
 
