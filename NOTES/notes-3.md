@@ -57,6 +57,8 @@ $$
 
 #### Gradient Accumulation
 
+$\frac{g_1+g_2+g_3+g_4}{4}$
+
 ***
 
 
