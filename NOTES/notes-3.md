@@ -57,6 +57,10 @@ $$
 
 #### Learning Rate (LR)
 
+<p align="center">
+  <img src="https://github.com/muarshad01/SLM/blob/main/images/lecture-3/Learning-Rate.png" width="500" height="300" />
+</p>
+
 $$\theta_{i+1}=\theta_{i}-\alpha\frac{\partial L}{\partial W}$$
 
 * Adam/AdamW
