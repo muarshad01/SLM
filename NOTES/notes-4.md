@@ -14,4 +14,9 @@
 
 * 8 H100 GPUs
 
-$$\text{micro batch size} \times \text{contex window} \times \text{num GPUS} = 64 \times 1,024 \times 8 = 524,288$$
+$$
+\begin{align}
+\text{Total batch size} &= \text{micro batch size} \times \text{contex window} \times \text{num GPUS} 
+                        &= 64 \times 1,024 \times 8 = 524,288
+\end{align}
+$$
