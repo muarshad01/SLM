@@ -40,6 +40,8 @@ $$\text{1-epoch} = \text{Dataset ~once} = \frac{10 ~Billion}{524,200} = 19,073 ~
   * Runpod PyTorch 2.4.0
 * GPU count = 8
 * Deploy on Demand
+  * Wait!
+* Connect -> Jupyter lab -> :888
 ```
 
 ***
