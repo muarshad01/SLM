@@ -47,8 +47,10 @@ $$\text{1-epoch} = \text{Dataset ~once} = \frac{10 ~Billion}{524,200} = 19,073 ~
 
 ***
 
-* 30:00
+* 40:00
 
 
 
 ***
+
+
