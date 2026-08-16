@@ -23,7 +23,7 @@ $$
                         &= 524,288\\
          \text{1-epoch} &= \text{Scan ~complete ~dataset ~once} \\
                         &= \frac{10 ~Billion}{524,200} \\
-                        & = 19,073 \text{update ~steps}\\
+                        & = 19,073 \text{~update ~steps}\\
 \end{align}
 $$
 
