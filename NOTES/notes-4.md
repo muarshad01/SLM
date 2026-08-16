@@ -16,7 +16,8 @@
 
 $$
 \begin{align}
-\text{Total batch size} &= \text{micro batch size} \times \text{contex window} \times \text{num GPUS} 
-                        &= 64 \times 1,024 \times 8 = 524,288
+\text{Total batch size} &= \text{micro batch size} \times \text{contex window} \times \text{num GPUS} \\
+                        &= 64 \times 1,024 \times 8 \\
+                        &= 524,288
 \end{align}
 $$
