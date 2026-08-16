@@ -91,14 +91,7 @@ $\frac{g_1 + g_2 + \ldots + g_{32}}{32}$
 
 #### Other DataSets
 
-* [HuggingFaceFW/fineweb](https://huggingface.co/datasets/HuggingFaceFW/fineweb)
-* 8 H100 GPUs
-* SLM for BioMedical Domain
-* [BioGPT](https://github.com/microsoft/BioGPT)
-
-| Paper |
-|---|
-| [BioGPT: Generative Pre-trained Transformer for Biomedical Text Generation and Mining](https://arxiv.org/abs/2210.10341)|
+* [BioGPT](https://github.com/muarshad01/SLM/blob/main/BioBPT.md)
 
 ***
 
