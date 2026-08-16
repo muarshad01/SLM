@@ -5,3 +5,5 @@
 | Paper |
 |---|
 | [GPT-2 (2019): Language Models are Unsupervised Multitask Learners](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)|
+
+* [Reproducing GPT-2 (124M) in llm.c in 90 minutes for $20 #481](https://github.com/karpathy/llm.c/discussions/481)
