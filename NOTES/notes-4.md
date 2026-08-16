@@ -21,7 +21,8 @@ $$
 \text{Total batch size} &= \text{micro batch size} \times \text{contex window} \times \text{num GPUS} \\
                         &= 64 \times 1,024 \times 8 \\
                         &= 524,288\\
-                        \text{1-epoch} &= \text{Dataset ~once} = \frac{10 ~Billion}{524,200} = 19,073 \\ update steps
+         \text{1-epoch} &= \text{Dataset ~once} \\
+                        &= \frac{10 ~Billion}{524,200} = 19,073 \\ update steps\\
 \end{align}
 $$
 
