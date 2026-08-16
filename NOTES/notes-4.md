@@ -8,6 +8,8 @@
 
 * [Reproducing GPT-2 (124M) in llm.c in 90 minutes for $20 #481](https://github.com/karpathy/llm.c/discussions/481)
 
+* HellaSwag Evaluation Metric
+
 ***
 
 * 15:00
@@ -27,7 +29,7 @@ $$\text{1-epoch} = \text{Dataset ~once} = \frac{10 ~Billion}{524,200} = 19,073 ~
 
 ***
 
-* 25:00
+* 30:00
 
 
 ***
