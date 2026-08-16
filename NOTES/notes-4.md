@@ -31,6 +31,16 @@ $$\text{1-epoch} = \text{Dataset ~once} = \frac{10 ~Billion}{524,200} = 19,073 ~
 
 * 30:00
 
+```
+* Pod Name: GPT-2 Replica Build SLM from Scratch
+* Edit Template
+  * Container Disk - 200
+  * Volume Disk - 200 GB
+* Change template
+  * Runpod PyTorch 2.4.0
+* GPU count = 8
+* Deploy on Demand
+```
 
 ***
 
