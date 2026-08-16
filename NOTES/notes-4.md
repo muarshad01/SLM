@@ -25,7 +25,7 @@ $$
 $$
 
 
-$$\text{1-epoch} = \text{Dataset ~once} = \frac{10 ~Billion}{524,200} = 19,073 ~update~steps$$
+$$\text{1-epoch} = \text{Dataset ~once} = \frac{10 ~Billion}{524,200} = 19,073$$ update steps
 
 ***
 
