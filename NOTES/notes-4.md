@@ -31,6 +31,7 @@ $$\text{1-epoch} = \text{Dataset ~once} = \frac{10 ~Billion}{524,200} = 19,073 ~
 
 * 30:00
 
+#### Runpod
 ```
 * Pod Name: GPT-2 Replica Build SLM from Scratch
 * Edit Template
@@ -46,5 +47,8 @@ $$\text{1-epoch} = \text{Dataset ~once} = \frac{10 ~Billion}{524,200} = 19,073 ~
 
 ***
 
+* 30:00
 
 
+
+***
