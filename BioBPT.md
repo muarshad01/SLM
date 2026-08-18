@@ -1,7 +1,9 @@
 #### BioGPU
 * [BioGPT](https://github.com/microsoft/BioGPT)
-* [Index of /pubmed/baseline](https://ftp.ncbi.nlm.nih.gov/pubmed/baseline/)
+* [Index of /pubmed/baseline](https://ftp.ncbi.nlm.nih.gov/pubmed/baseline/) - 10 GB
 * SLM for BioMedical Domain
+* ~300 Million parameters
+* [Datasets: bigbio/hallmarks_of_cancer](https://huggingface.co/datasets/bigbio/hallmarks_of_cancer)
 
 | Paper |
 |---|
